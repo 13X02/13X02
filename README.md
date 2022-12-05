@@ -47,6 +47,7 @@
   - Swift
   - Javascript
   - UIKit
+  - Swift UI
 
 </div>
 
