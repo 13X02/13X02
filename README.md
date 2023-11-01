@@ -20,10 +20,6 @@
 
   - 🌱  I develop apps for iOS.
 
-  - 💬 Ask me about **any technology**.
-
-  - ⚡ A fact : **ONEPIECE IS REAL**
-
   <br>
   
 
