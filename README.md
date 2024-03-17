@@ -39,9 +39,8 @@
 
   ## 📚 &nbsp;Currently studying
 
-  - NextJs
-  - Javascript
-  - Python
+  - Typescript
+  - Java
   - Angular
 
 </div>
